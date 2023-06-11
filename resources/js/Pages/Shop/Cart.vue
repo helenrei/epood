@@ -1,0 +1,7 @@
+<script>
+    defineProps({
+        cart: {
+            
+        }
+    })
+</script>
